@@ -1,7 +1,6 @@
 {
   "name": "firstnext",
   "version": "1.0.0",
-  "homepage": "https://firstnext",
   "description": "",
   "main": "index.js",
   "scripts": {
