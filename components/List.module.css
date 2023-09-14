@@ -1,0 +1,10 @@
+.delete {
+    background-color: lightcyan;
+    margin: 10px;
+    padding: 12px 16px;
+    font-size: 16px;
+  }
+.fieldset{
+    margin: 10px;
+    border-color: gray;
+  }

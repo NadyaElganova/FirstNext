@@ -1,0 +1,16 @@
+.delete {
+    background-color: lightcyan;
+    margin: 10px;
+    padding: 12px 16px;
+    font-size: 16px;
+  }
+  .delete:hover {
+    background-color: lightcoral;
+  }
+  .check {
+    display: inline-block;
+    position: absolute;
+    margin-top: 20px;
+    width: 25px;
+    height: 25px;
+  }
