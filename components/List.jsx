@@ -1,5 +1,5 @@
 import ItemList from './ItemList'
-import style from './list.module.css';
+import style from './List.module.css';
 
 export default function List({list, deleteDoList, onChecked, deleteDone}){
     return <fieldset className={style.fieldset}>

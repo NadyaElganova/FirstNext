@@ -1,5 +1,5 @@
 import React from 'react';
-import FormInput from './formInput'
+import FormInput from './FormInput'
 import List from './List'
 
 const tempDoList = [

@@ -1,4 +1,4 @@
-import style from './itemList.module.css'
+import style from './ItemList.module.css'
 
 export default function ItemList({list, deleteDoList, onChecked}){
     return <>

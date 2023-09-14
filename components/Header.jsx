@@ -1,5 +1,5 @@
 import Link from "next/link";
-import style from './header.module.css'
+import style from './Header.module.css'
 
 const pages = [
     {href: '/', title: "Список дел"},
